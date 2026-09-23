@@ -1,0 +1,1 @@
+Cette sous-classe du Barbare se focalise sur la protection de ses alliés
