@@ -3,5 +3,3 @@
 | 4      | Défi sacré            | Vous défiez un ennemie qui a commis un acte impardonnable contre vous ou une autre personne, vous gagnez avantage contre lui sur tous ces jets et vos jets contre lui                                                                  | Tout le combat | LR       | 10PE |
 | 6      | Attaque vengeuse      | Si vous affrontez un ennemi qui vous à déjà blessé, vous gagnez une action d'attaque supplémentaire par tour                                                                                                                           | Passif         | X        | X    |
 | 8      | Tremblez devant moi ! | Le joueur peut faire fuir tous les ennemies sauf l'ennemie le plus fort devant lui et les ennemies sur lesquelles il a utilisé défi sacré lancez un jet de dé CHArisme contre INT pour tous les ennemies que vous souhaitez faire fuir | Inst           | LR       | 15PE |
-
-
